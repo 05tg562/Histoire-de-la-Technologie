@@ -1,0 +1,187 @@
+<style>
+        body {
+            font-family: "Arial", sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            
+           
+        }
+        #font
+        {
+            margin:0px;
+            padding:50px 0;
+            background-image: url(https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif);
+
+        }
+        #image2
+        {
+           display: flex;
+           justify-content: center;
+           align-items: center;
+
+        }
+       
+        header {
+            background-color: black;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+      
+         h2, h3{
+            color: blue;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+            font-size:30px;
+
+
+
+        }
+        
+        footer {
+            text-align: center;
+            margin: 0rem 0;
+            color: blue;
+             background-color: black;
+            color: white;
+            padding:0rem 0;
+            text-align: center;
+
+
+        }
+        
+
+        #image1
+        {
+            
+           object-fit: fill;
+            position: absolute;
+            top: 950px;
+            left:650px;
+        }
+
+
+        p, li{
+            color:#34495e;
+            line-height: 1.6;
+            font-size:20px;
+            
+        }
+        table{
+            color:blue;
+            line-height: 1.6;
+            font-size:17px;
+
+        }
+         main{
+            background: rgba(255, 255, 255, 0.9); 
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            max-width: 800px;
+            margin: 50px auto;
+        }
+        h4, h100{
+          
+          font-size:23px;
+          color:mediumseagreen; 
+        }
+              
+
+
+
+
+            #header2{
+            background: cyan-blue;
+            background: linear-gradient(to right, #2a5298, #1e3c72);
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+            clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 3rem;
+            font-weight: bold;
+        }
+
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2rem;
+            line-height: 1.5;
+        }
+
+       
+
+            
+
+       h6{
+            margin:0;
+            top:30px;
+            text-align: center;
+            color: white;
+             font-size:30px;
+        }
+
+        .links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 120px;
+        }
+
+        .link-card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            width: 250px;
+            padding: 20px;
+            text-align: center;
+            text-decoration: none;
+            color: grey;
+        }
+
+        .link-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .link-card h3 {
+            margin: 15px 0;
+            color: cyan-blue.;
+            font-size: 1.5rem;
+        }
+
+        .link-card p {
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+
+        #presentaion {
+            text-align: center;
+            padding: 20px;
+            background: cyan-blue;
+            color: white;
+            margin-top: 40px;
+        }
+
+        footer p {
+            margin: 0;
+            top: 0px;
+        }
+        #font2
+        {   
+            margin-right:700px ;
+            background-image: url(https://i.pinimg.com/736x/e8/0c/ba/e80cba635aaeeedc4c44cf1920d00fe6.jpg) ;
+            padding:35px 0;            
+            width: 100%;
+        }
+
+    </style>
+
+        
+
+
+
